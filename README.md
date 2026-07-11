@@ -15,7 +15,6 @@ Soil moisture sensor reads analog moisture level. Arduino compares it against dr
 | 5V Relay Module | 1 |
 | Active Buzzer | 1 |
 | 16x2 I2C LCD (0x27) | 1 |
-| Jumper Wires | — |
 | Breadboard | 1 |
 
 ## Thresholds
