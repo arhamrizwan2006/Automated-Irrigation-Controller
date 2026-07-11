@@ -40,6 +40,3 @@ Soil moisture sensor reads analog moisture level. Arduino compares it against dr
 
 ### Pump OFF
 ![OFF](media/pump_off.jpeg)
-
-### Video
-[Watch Demo](media/demo_video.mp4)
